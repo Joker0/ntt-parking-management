@@ -1,0 +1,15 @@
+# Visual Studio cache/options directory
+.vs/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+bin/
+obj/
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
